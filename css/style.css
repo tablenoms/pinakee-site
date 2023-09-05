@@ -12672,8 +12672,8 @@ html.tablet .ui-to-top {
 
 .rd-navbar-brand a {
 	display: block;
-	height: 100px;
-	width: 50px;
+	height: auto;
+	width: auto;
 }
 
 .rd-navbar-search {
